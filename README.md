@@ -4,3 +4,5 @@ Focus: OVITO→Blender pipelines, PC2 bake, Geometry Nodes instancing, stable re
 
 ## Projects
 - projects/ovito-blender-visualizer — OVITO dump → Blender viewport playback (+ PC2/GN recipes)
+
+- `projects/ovito-blender-visualizer` — OVITO dump → Blender viewport playback (+ PC2/GN recipes)
