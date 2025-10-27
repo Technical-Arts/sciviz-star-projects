@@ -1,33 +1,14 @@
 
-<video src="../../docs/media/recocido_720p.mp4"
-       width="720"
-       autoplay
-       loop
-       muted
-       playsinline
-       controls></video>
+## Demo — Simulated Annealing (GIF)
 
-<p>
-  <a href="../../docs/media/recocido_720p.mp4">
-    <img src="../../docs/media/recocido_poster.jpg" alt="Annealing animation (click to open video)">
-  </a>
-</p>
+<img src="../../docs/media/recocido_480.gif" alt="Annealing animation" width="480"/>
+
+
+
 
 ## Demo — Annealing playback
 
-<video src="../../docs/media/recocido_720p.mp4"
-       width="720"
-       autoplay
-       loop
-       muted
-       playsinline
-       controls></video>
 
-<p>
-  <a href="../../docs/media/recocido_720p.mp4">
-    <img src="../../docs/media/recocido_poster.jpg" alt="Annealing animation (click to open video)">
-  </a>
-</p>
 
 ## Gallery
 
