@@ -33,10 +33,10 @@
 - **Viewport-only** is fine for inspection; for production renders use the baked cache.
 
 ## Gallery
-**Seed lattice (pre-instancing)**  
+**Initial snapshot (frame 0)**  
 ![atoms1](../../docs/media/atoms1.png)
 
-**Annealed lattice (dynamic positions)**  
+**Later snapshot (post-anneal)**  
 ![atoms2](../../docs/media/atoms2.png)
 
 **Prototype sphere (instanced atom)**  
