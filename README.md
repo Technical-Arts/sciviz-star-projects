@@ -46,3 +46,12 @@ Focus: OVITO→Blender pipelines, PC2 bake, Geometry Nodes instancing, stable re
 
 **atoms3.png** — Metal sphere prototype used as the instanced atom.  
 ![atoms3](docs/media/atoms3.png)
+
+---
+
+### Nota sobre autoría y herramientas
+
+La estructuración, diseño de código y parte de la documentación de este repositorio
+fueron **asistidos por herramientas de inteligencia artificial**.
+Todas las contribuciones generadas con IA fueron **revisadas y validadas por personas**,
+siguiendo principios de transparencia, trazabilidad y responsabilidad en software científico.
